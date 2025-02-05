@@ -1,16 +1,25 @@
-## Hi there 👋
+# Vítejte na mém GitHub profilu 👋
 
-<!--
-**LazyView/LazyView** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## O mně
+🎓 Student softwarového inženýrství
+💻 Začínající vývojář se zájmem o různé programovací jazyky a technologie
+🌱 Aktuálně pracuji s: Java, C#, webové technologie
+📚 Plánuji se naučit: C
 
-Here are some ideas to get you started:
+## Projekty
+### 🎮 Šachy
+- Implementace šachové hry v Javě
+- [Odkaz na repozitář]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Databáze knih
+- Webová aplikace pro správu knih
+- [Odkaz na repozitář]
+
+### ⚡ Vizualizace elektrostatického pole
+- Program pro vizualizaci elektrostatického pole v C#
+- [Odkaz na repozitář]
+
+_Toto portfolio budu postupně rozšiřovat o školní i osobní projekty._
+
+## Statistiky
+![GitHub statistiky](https://github-readme-stats.vercel.app/api?username=VASE_UZIVATELSKE_JMENO&show_icons=true&theme=transparent)
