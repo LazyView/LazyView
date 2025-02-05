@@ -9,7 +9,7 @@
 ## Projekty
 ### 🎮 Šachy
 - Implementace šachové hry v Javě
-- [Odkaz na repozitář]
+- [[Odkaz na repozitář]](https://github.com/LazyView/Chess-2023.git)
 
 ### 📚 Databáze knih
 - Webová aplikace pro správu knih
