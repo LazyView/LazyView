@@ -1,10 +1,10 @@
 # Vítejte na mém GitHub profilu 👋
 
 ## O mně
-🎓 Student softwarového inženýrství
-💻 Začínající vývojář se zájmem o různé programovací jazyky a technologie
-🌱 Aktuálně pracuji s: Java, C#, webové technologie
-📚 Plánuji se naučit: C
+- 🎓 Student softwarového inženýrství
+- 💻 Začínající vývojář se zájmem o různé programovací jazyky a technologie
+- 🌱 Aktuálně pracuji s: Java, C#, webové technologie
+- 📚 Plánuji se naučit: C
 
 ## Projekty
 ### 🎮 Šachy
