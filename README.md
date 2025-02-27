@@ -10,7 +10,7 @@
 
 ### Aktuální projekt
 
-#####  Aplikaci pro navigaci malých letadel na android
+#####  Aplikace pro navigaci malých letadel na android
 
 ### Hotové projekty
 
