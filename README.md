@@ -7,15 +7,22 @@
 - 📚 Plánuji se naučit: C
 
 ## Projekty
-### 🎮 Šachy
+
+### Aktuální projekt
+
+#####  Aplikaci pro navigaci malých letadel na android
+
+### Hotové projekty
+
+#### 🎮 Šachy
 - Implementace šachové hry v Javě
 - [[Odkaz na repozitář]](https://github.com/LazyView/Chess-2023.git)
 
-### 📚 Databáze knih
+#### 📚 Databáze knih
 - Webová aplikace pro správu knih
 - [[Odkaz na repozitář]](https://github.com/LazyView/WEBAPP_Booksie.git)
 
-### ⚡ Vizualizace elektrostatického pole
+#### ⚡ Vizualizace elektrostatického pole
 - Program pro vizualizaci elektrostatického pole v C#
 - [[Odkaz na repozitář]](https://github.com/LazyView/Vizualizace_elektrostatickeh_pole.git)
 
