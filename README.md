@@ -11,6 +11,8 @@
 ### Aktuální projekt
 
 #####  Aplikace pro navigaci malých letadel na android
+- Kotlin
+- [[Odkaz na repozitář]](https://github.com/Smart-Workers-Union/smart-nav)
 
 ### Hotové projekty
 
